@@ -1,9 +1,8 @@
-!resultPrograms
-resultPrograms/*
+#Program Specific
+!access_keys
+access_keys/*
 
-!inputPrograms
-inputPrograms/*
-!inputPrograms/main.py
+ 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
